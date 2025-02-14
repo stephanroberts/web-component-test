@@ -8,7 +8,7 @@ class TestComponent extends HTMLElement {
   render() {
     this.shadowRoot.innerHTML = `
         <div>
-          <h2> Hello World! </h2>
+          <h2> Hello to the whole World! </h2>
         </div>
       `;
   }
